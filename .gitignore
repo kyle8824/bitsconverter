@@ -1,0 +1,7 @@
+node_modules/
+.grok/
+.vercel/
+.tanstack/
+.env
+.env.*
+*.local
